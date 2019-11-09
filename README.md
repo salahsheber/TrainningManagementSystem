@@ -1,4 +1,4 @@
 # TrainningManagementSystem
 
 ERD:
-![](TMS-RED.png)
+![](https://github.com/salahsheber/TrainningManagementSystem/blob/master/TMS-ERD.png)
